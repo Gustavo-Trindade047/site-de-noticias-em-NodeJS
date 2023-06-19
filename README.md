@@ -11,4 +11,6 @@ Site de notícias totalmente feito em NodeJS
 
 Este site foi totalmente desenvolvido e customizado em NODEJS durante uma aula de estudo na plataforma de cursos NodeJS da DankiCode.
 
+Para rodar o site, não esqueça de abrir o terminal do vs code e digitar: node index.js
+
 Qualquer erro encontrado ou sugestão de edição de hard coding, favor contatar Gustavo pelo WhatsApp ( wa.me/+5547991170989 ) <---
